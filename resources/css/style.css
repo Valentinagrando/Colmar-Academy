@@ -22,10 +22,10 @@ header .logo{
 nav ul li{
   padding-right: 16px;
   color: #555555;
-  transition: background-color 2s ease 0.3s;
+  transition: background-color 2s ease 0.1s;
 }
-nav:hover ul li{
-  background-color: #F0F8FF; 
+nav ul li:hover{
+  background-color: #6495ED; 
 }
 nav ul{
   list-style: none;
