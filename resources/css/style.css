@@ -16,6 +16,8 @@ header{
 }
 header .logo{
   padding-left: 24px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   display: flex;
   align-items: center;
 }
@@ -25,7 +27,7 @@ nav ul li{
   transition: background-color 2s ease 0.1s;
 }
 nav ul li:hover{
-  background-color: #6495ED; 
+  background-color: #87CEFA; 
 }
 nav ul{
   list-style: none;
