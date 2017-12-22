@@ -26,7 +26,7 @@ nav ul li{
   color: #555555;
   transition: background-color 2s ease 0.1s;
 }
-nav:hover ul li{
+nav ul li:hover{
   background-color: #87CEFA; 
 }
 nav ul{
